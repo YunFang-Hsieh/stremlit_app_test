@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 from scipy import stats
 from scipy.integrate import solve_ivp
 import matplotlib.pyplot as plt
